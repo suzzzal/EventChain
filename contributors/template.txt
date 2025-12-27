@@ -2,3 +2,4 @@
 
 Github: bitflipper19
 College: IIIT Allahabad
+Figma: <figma_link>
